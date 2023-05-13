@@ -1,2 +1,5 @@
 # Data used in d2l
 data/
+*.csv
+*.params
+
