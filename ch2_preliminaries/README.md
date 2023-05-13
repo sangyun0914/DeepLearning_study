@@ -23,7 +23,7 @@ In short, this chapter provides a rapid introduction
 to the basics that you will need to follow 
 *most* of the technical content in this book.
 
-:begin_tab:toc
+## Table of Contents
  - [ndarray](ndarray.ipynb)
  - [pandas](pandas.ipynb)
  - [linear-algebra](linear-algebra.ipynb)
@@ -31,4 +31,4 @@ to the basics that you will need to follow
  - [autograd](autograd.ipynb)
  - [probability](probability.ipynb)
  - [lookup-api](lookup-api.ipynb)
-:end_tab:
+
